@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telemarketing.API", "Telemarketing.API\Telemarketing.API.csproj", "{4029FA1C-3979-4BC5-861E-CD98EA0E88C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telemarketing.API.Tests", "Telemarketing.API.Tests\Telemarketing.API.Tests.csproj", "{FBFE1B38-31CF-4CB2-8377-1E52A0B5ADCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4029FA1C-3979-4BC5-861E-CD98EA0E88C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4029FA1C-3979-4BC5-861E-CD98EA0E88C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4029FA1C-3979-4BC5-861E-CD98EA0E88C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4029FA1C-3979-4BC5-861E-CD98EA0E88C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFE1B38-31CF-4CB2-8377-1E52A0B5ADCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFE1B38-31CF-4CB2-8377-1E52A0B5ADCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFE1B38-31CF-4CB2-8377-1E52A0B5ADCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFE1B38-31CF-4CB2-8377-1E52A0B5ADCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F300FBF-072C-4FE0-8F20-0F4ADD376E58}
+	EndGlobalSection
+EndGlobal
